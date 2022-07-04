@@ -1,0 +1,7 @@
+分支操作：
+查看分支列表 ： git branch
+创建新分支 ： git branch login（新分支名称）
+切换分支 ： git checkout login
+分支快速创建和切换： git checkout -b
+合并分支 ： git merge login 1.前提要切换到main（主分支）
+删除分支 ： git branch -d 分支名称	1.前提要切换到main（主分支）
